@@ -11,10 +11,10 @@
     "Nick Lockwood": "support@charcoaldesign.co.uk"
   },
   "source": {
-    "git": "https://github.com/nicklockwood/iVersion.git",
+    "git": "https://github.com/yummly/iVersion",
     "tag": "1.11.5"
   },
-  "source_files": "iVersion/iVersion.{h,m}",
+  "source_files": "Sources/iVersion/iVersion.{h,m}",
   "requires_arc": true,
   "platforms": {
     "ios": "4.3",
@@ -23,5 +23,5 @@
   "ios": {
     "frameworks": "StoreKit"
   },
-  "resources": "iVersion/iVersion.bundle"
+  "resources": "Sources/iVersion/Resources/iVersion.bundle"
 }
